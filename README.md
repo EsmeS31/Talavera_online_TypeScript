@@ -2,7 +2,7 @@
 
 Casa Talavera Cart is a small TypeScript terminal program that models a ceramic shop catalog and shopping cart. It displays sample plate and mug products, adds products to a cart, calculates a subtotal, applies a sample discount code, and removes a product from the cart.
 
-I wrote this software to practice using TypeScript to organize data and describe how that data can be used. The project helps me grow as a software engineer by applying typed objects, functions, classes, arrays, asynchronous code, and exception handling to a familiar storefront idea.
+I wrote this software to practice using TypeScript to organize data and describe how that data can be used. The project helps me grow in my carrer by applying typed objects, functions, classes, arrays, asynchronous code, and exception handling to a familiar storefront idea.
 
 The program demonstrates TypeScript syntax through a `Product` interface, a `ProductCategory` union type, a `ShoppingCart` class, and functions for loading a sample catalog, formatting prices, displaying cart contents, and calculating discounts. The catalog loader uses a short delay to demonstrate `async` and `await`. An invalid promo code throws an error that the program catches and displays.
 
@@ -10,7 +10,7 @@ All product details and prices in this demo are sample data and should be confir
 
 Add the public link to your recorded 4–5 minute demonstration below:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/72uWAhyYm9M)
 
 # Development Environment
 
