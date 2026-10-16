@@ -1,0 +1,13 @@
+{
+  "name": "casa-talavera-cart-practice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A beginner TypeScript terminal demo for a ceramic shop cart.",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cart.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

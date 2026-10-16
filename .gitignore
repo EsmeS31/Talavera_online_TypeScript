@@ -1,0 +1,8 @@
+# Dependencies installed by npm; package.json and package-lock.json recreate them.
+node_modules/
+
+# Compiled JavaScript generated from cart.ts by the TypeScript compiler.
+dist/
+
+# macOS metadata files are not part of the project source.
+.DS_Store
